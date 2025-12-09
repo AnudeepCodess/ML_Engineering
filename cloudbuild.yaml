@@ -1,0 +1,10 @@
+# First step: Build the Docker image
+# equivalent to running on a terminal: docker build -t gcr.io/<your GCP Project ID>/first_app .
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/<your GCP Project ID>/first_app', '.']
+
+
+# Second step: Push the Docker image to gcr
+# equivalent to running on a terminal: docker push gcr.io/<your GCP Project ID>/first_app
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/<your GCP Project ID>/first_app']
