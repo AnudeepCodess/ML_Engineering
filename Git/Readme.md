@@ -1,6 +1,4 @@
-# Git Cheat Sheet
-
-## Quick Reference Guide
+# Daily Used Git Commands
 
 ### SETUP
 Configuring user information used across all local repositories
@@ -12,8 +10,6 @@ git config --global user.name "[firstname lastname]"
 git config --global user.email "[valid-email]"
 # Set an email address that will be associated with each history marker
 
-git config --global color.ui auto
-# Set automatic command line coloring for Git for easy reviewing
 ```
 
 ### SETUP & INIT
@@ -102,62 +98,6 @@ git mv [existing-path] [new-path]
 
 git log --stat -M
 # Show all commit logs with indication of any paths that moved
-```
-
-### TEMPORARY COMMITS
-Temporarily store modified, tracked files in order to change branches
-
-```bash
-git stash
-# Save modified and staged changes
-
-git stash list
-# List stack-order of stashed file changes
-
-git stash pop
-# Write working from top of stash stack
-
-git stash drop
-# Discard the changes from top of stash stack
-```
-
-### INSPECT & COMPARE
-Examining logs, diffs and object information
-
-```bash
-git log
-# Show the commit history for the currently active branch
-
-git log branchB..branchA
-# Show the commits on branchA that are not on branchB
-
-git log --follow [file]
-# Show the commits that changed file, even across renames
-
-git diff branchB...branchA
-# Show the diff of what is in branchA that is not in branchB
-
-git show [SHA]
-# Show any object in Git in human-readable format
-```
-
-### REWRITE HISTORY
-Rewriting branches, updating commits and clearing history
-
-```bash
-git rebase [branch]
-# Apply any commits of current branch ahead of specified one
-
-git reset --hard [commit]
-# Clear staging area, rewrite working tree from specified commit
-```
-
-### IGNORING PATTERNS
-Preventing unintentional staging or committing of files
-
-```bash
-git config --global core.excludesfile [file]
-# System wide ignore pattern for all local repositories
 ```
 
 Create a `.gitignore` file with desired patterns:
