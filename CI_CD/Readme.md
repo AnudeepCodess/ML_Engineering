@@ -39,7 +39,7 @@ nano cloudbuild.yaml
 # or use your preferred editor
 ```
 
-Replace `<PROJECT_ID>` with your actual GCP project ID.
+Replace `<PROJECT_ID>` with your actual GCP project ID and Image Name.
 
 ### 6. Navigate to the CI/CD Directory
 
