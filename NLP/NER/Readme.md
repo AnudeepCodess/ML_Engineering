@@ -63,3 +63,13 @@ Evaluation was performed at the entity occurrence level across the full dataset.
 ---
 
 ## Repository Structure
+.
+├── notebooks/
+│ └── evaluate_spacy.ipynb
+├── data/
+│ ├── tweets.xlsx
+│ └── ner_annotations.json
+├── README.md
+
+---
+
