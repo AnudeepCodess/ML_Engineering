@@ -1,0 +1,12 @@
+nltk 
+spacy 
+textblob 
+gensim 
+tensorflow 
+transformers 
+torch 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+scikit-learn
