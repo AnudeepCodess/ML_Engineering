@@ -29,7 +29,7 @@ The following named entity categories were analyzed:
 ## Workflow
 
 ### 1. Manual Annotation
-Tweets were manually annotated using an online NER annotation tool.  
+Tweets were manually annotated using an online NER annotation tool. [ner-annotator](https://tecoholic.github.io/ner-annotator/)
 Entities were labeled at the character level and exported in spaCy-compatible JSON format.  
 The annotated data serves as ground truth for evaluation.
 
