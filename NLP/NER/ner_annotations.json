@@ -1,0 +1,2485 @@
+{
+  "classes": ["LOC", "NORP", "ORG", "GPE", "DATE", "MONEY", "PERSON"],
+  "annotations": [
+    [
+      "Uganda 's government and rebels of the Lord 's Resistance Army are nearing a peace deal to end more than 20 years of conflict .\r",
+      {
+        "entities": [
+          [0, 6, "GPE"],
+          [39, 62, "ORG"],
+          [105, 113, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Officials close to the negotiations say an accord signed Friday provides for the disarmament and demobilization of the LRA .\r",
+      {
+        "entities": [
+          [57, 63, "DATE"],
+          [119, 122, "ORG"]
+        ]
+      }
+    ],
+    [
+      "The two sides signed a permanent cease-fire agreement last Saturday during peace talks in Sudan .\r",
+      {
+        "entities": [
+          [59, 67, "DATE"],
+          [90, 95, "GPE"]
+        ]
+      }
+    ],
+    [
+      "However , there is still uncertainty the rebels will sign the final peace deal until rebel leader Joseph Kony is granted immunity from international prosecution .\r",
+      { "entities": [[98, 109, "PERSON"]] }
+    ],
+    [
+      "Kony is one of five LRA officials sought by the International Criminal Court for alleged war crimes .\r",
+      {
+        "entities": [
+          [0, 4, "PERSON"],
+          [20, 23, "ORG"]
+        ]
+      }
+    ],
+    [
+      "LRA fighters are accused of murdering thousands of civilians and raping and mutilating others during the long insurgency in northern Uganda .\r",
+      {
+        "entities": [
+          [0, 3, "ORG"],
+          [133, 139, "GPE"]
+        ]
+      }
+    ],
+    [
+      "World number one men 's tennis player Roger Federer has been nearly unbeatable in the past year .\r",
+      {
+        "entities": [
+          [38, 51, "PERSON"],
+          [82, 95, "DATE"]
+        ]
+      }
+    ],
+    [
+      "But his warmup for the Australian Open has abruptly ended with a rare loss .\r",
+      { "entities": [[23, 33, "GPE"]] }
+    ],
+    [
+      "The Swiss star was upset Wednesday by German Tommy Haas in the opening match of the Kooyong Classic in Melbourne .\r",
+      {
+        "entities": [
+          [4, 9, "NORP"],
+          [25, 34, "DATE"],
+          [38, 44, "NORP"],
+          [45, 55, "PERSON"],
+          [84, 99, "ORG"],
+          [103, 112, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Because he was playing in exhibition tournament , the loss will not count on his Association of Tennis Professionals Tour record .\r",
+      { "entities": [[81, 116, "ORG"]] }
+    ],
+    [
+      "The 41st ranked Haas fended off three break points while serving for the match and closed a 03-Jun , 06-Apr , 06-Apr win with an ace .\r",
+      {
+        "entities": [
+          [16, 20, "PERSON"],
+          [92, 98, "DATE"],
+          [101, 107, "DATE"],
+          [110, 116, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Federer said he is completely healthy and has no concerns that the ankle problem that curtailed his last season would flare up before the Australian Open , which starts Monday .\r",
+      {
+        "entities": [
+          [0, 7, "PERSON"],
+          [138, 153, "ORG"],
+          [169, 175, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The European Space Agency says it has received the first images and scientific readings from the surface of Saturn 's moon Titan .\r",
+      {
+        "entities": [
+          [4, 25, "ORG"],
+          [108, 114, "GPE"],
+          [108, 114, "LOC"],
+          [123, 128, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Officials at agency headquarters in Germany Friday say information taken from the Huygens space probe show what looks like drainage channels on the moon .\r",
+      {
+        "entities": [
+          [36, 43, "GPE"],
+          [44, 50, "DATE"],
+          [82, 89, "ORG"]
+        ]
+      }
+    ],
+    [
+      "They say the surface has canyons that were most likely caused by some type of liquid .\r",
+      { "entities": [] }
+    ],
+    [
+      "The space probe began transmitting data to the Cassini spacecraft while landing on Saturn 's largest moon earlier Friday .\r",
+      {
+        "entities": [
+          [47, 54, "ORG"],
+          [83, 89, "GPE"],
+          [114, 120, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Scientists say the information from Huygens - operated jointly by the American , European and Italian space agencies - may provide clues about how primitive Earth evolved into a life-bearing planet .\r",
+      {
+        "entities": [
+          [36, 43, "ORG"],
+          [70, 78, "NORP"],
+          [81, 89, "NORP"],
+          [94, 101, "NORP"],
+          [157, 162, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Ugandan opposition leader Kizza Besigye has been released on bail , after a judge ruled his detention by the military was illegal .\r",
+      {
+        "entities": [
+          [0, 7, "NORP"],
+          [26, 39, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Police fired tear gas to disperse hundreds of Dr. Besigye 's supporters who took to the streets in Kampala after his release Monday .\r",
+      {
+        "entities": [
+          [46, 57, "PERSON"],
+          [99, 106, "GPE"],
+          [125, 131, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Uganda 's military had detained Dr. Besigye since November , when he returned from self-imposed exile to run against President Yoweri Museveni in next month 's presidential election .\r",
+      {
+        "entities": [
+          [0, 6, "GPE"],
+          [32, 43, "PERSON"],
+          [50, 58, "DATE"],
+          [127, 142, "PERSON"],
+          [146, 156, "DATE"]
+        ]
+      }
+    ],
+    [
+      "A military tribunal has charged Dr. Besigye with terrorism and possessing illegal weapons .\r",
+      { "entities": [[32, 43, "PERSON"]] }
+    ],
+    [
+      "But a Ugandan High Court Judge , John Bosco Katutsi , said his detention was illegal because the High Court had suspended the military trial .\r",
+      {
+        "entities": [
+          [6, 13, "NORP"],
+          [14, 24, "ORG"],
+          [33, 51, "PERSON"],
+          [97, 107, "ORG"]
+        ]
+      }
+    ],
+    [
+      "Dr. Besigye still faces rape charges , for which a civilian trial began Monday .\r",
+      {
+        "entities": [
+          [0, 11, "PERSON"],
+          [72, 78, "DATE"]
+        ]
+      }
+    ],
+    [
+      "He has denied all the charges , which supporters say were trumped up to keep him from running for president .\r",
+      { "entities": [] }
+    ],
+    [
+      "U.S. President Barack Obama says improvements in the American health care system are inevitable .\r",
+      {
+        "entities": [
+          [0, 4, "NORP"],
+          [15, 27, "PERSON"],
+          [53, 61, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Mr. Obama made his comments in the White House Rose Garden Monday as he nominated an African-American woman , Regina Benjamin , to become the U.S. Surgeon General .\r",
+      {
+        "entities": [
+          [0, 9, "PERSON"],
+          [35, 58, "LOC"],
+          [59, 65, "DATE"],
+          [85, 101, "NORP"],
+          [110, 125, "PERSON"],
+          [142, 146, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The president said \" naysayers and cynics \" should not bet against the passage of health insurance legislation .\r",
+      { "entities": [] }
+    ],
+    [
+      "He also said inaction on the issue is not an option .\r",
+      { "entities": [] }
+    ],
+    [
+      "Mr. Obama has vowed to sign a health care bill into law this year .\r",
+      {
+        "entities": [
+          [0, 9, "PERSON"],
+          [56, 65, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Democrats in the House of Representatives say they are nearly ready to unveil their health care reform plan .\r",
+      {
+        "entities": [
+          [0, 9, "NORP"],
+          [17, 41, "ORG"]
+        ]
+      }
+    ],
+    [
+      "Controversy over extending health coverage to uninsured Americans centers on how to pay for it .\r",
+      { "entities": [[56, 65, "NORP"]] }
+    ],
+    [
+      "It is expected to cost $ 1 trillion over 10 years .\r",
+      {
+        "entities": [
+          [23, 35, "MONEY"],
+          [36, 49, "DATE"]
+        ]
+      }
+    ],
+    [
+      "World Bank member nations meeting in Washington have approved a debt relief plan for 17 African and Latin American countries that could total $ 37 billion over 40 years .\r",
+      {
+        "entities": [
+          [0, 10, "ORG"],
+          [37, 47, "GPE"],
+          [88, 95, "NORP"],
+          [100, 114, "NORP"],
+          [142, 154, "MONEY"],
+          [155, 168, "DATE"]
+        ]
+      }
+    ],
+    [
+      "World Bank President Paul Wolfowitz said two-thirds of the bank members have now approved the plan , meaning the bank could start forgiving debts in July .\r",
+      {
+        "entities": [
+          [0, 10, "ORG"],
+          [21, 35, "PERSON"],
+          [149, 153, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The move follows July 's pledge from the wealthy G-8 countries to cancel the debt of the world 's poorest countries , many of which are located in Africa .\r",
+      {
+        "entities": [
+          [17, 21, "DATE"],
+          [49, 52, "ORG"],
+          [147, 153, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The 17 countries now eligible for World Bank debt relief are Benin , Bolivia , Burkina Faso , Ethiopia , Ghana , Guyana , Honduras , Madagascar , Mali , Mozambique , Nicaragua , Niger , Rwanda , Senegal , Tanzania , Uganda and Zambia .\r",
+      {
+        "entities": [
+          [34, 44, "ORG"],
+          [61, 66, "GPE"],
+          [69, 76, "GPE"],
+          [79, 91, "GPE"],
+          [94, 102, "GPE"],
+          [105, 110, "GPE"],
+          [113, 119, "GPE"],
+          [122, 130, "GPE"],
+          [133, 143, "GPE"],
+          [146, 150, "GPE"],
+          [153, 163, "GPE"],
+          [166, 175, "GPE"],
+          [178, 183, "GPE"],
+          [186, 192, "GPE"],
+          [195, 202, "GPE"],
+          [205, 213, "GPE"],
+          [216, 222, "GPE"],
+          [227, 233, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Iran has closed government offices and schools in Tehran for two days because of wind-blown dust that has polluted the capital .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [50, 56, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Government authorities have declared Tuesday and Wednesday a public holiday , and Iranian media say many domestic airline flights have been canceled .\r",
+      {
+        "entities": [
+          [37, 44, "DATE"],
+          [49, 58, "DATE"],
+          [82, 89, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Medical authorities are advising people with heart and respiratory problems to stay inside .\r",
+      { "entities": [] }
+    ],
+    [
+      "Iran 's Press TV says Tehran 's Air Quality Control Company has found the amount of potentially harmful particulate in the air has reached dangerous levels .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [8, 16, "ORG"],
+          [22, 28, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The dust has blown in from Saudi Arabia and neighboring Iraq , where a severe sandstorm recently blanketed the capital , Baghdad .\r",
+      {
+        "entities": [
+          [27, 39, "GPE"],
+          [56, 60, "GPE"],
+          [121, 128, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Sandstorms can be caused by heavy winds blowing across deserts , or across land that has lost its fertile top soil and greenery .\r",
+      { "entities": [] }
+    ],
+    [
+      "Shortly before midnight a suicide bomber blew himself up in a crowd of young Israelis waiting to get into a beachfront nightclub in Tel Aviv .\r",
+      {
+        "entities": [
+          [77, 85, "NORP"],
+          [132, 140, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Israeli police say the bomber was spotted and prevented from entering the club .\r",
+      { "entities": [[0, 7, "NORP"]] }
+    ],
+    [
+      "They say if he had gotten inside the carnage would have been even worse .\r",
+      { "entities": [] }
+    ],
+    [
+      "It is unclear who was behind the attack with major Palestinian militant groups saying they had nothing to do with it .\r",
+      { "entities": [[51, 62, "NORP"]] }
+    ],
+    [
+      "A statement released by Palestinian President Mahmoud Abbas in Ramallah vowed to track down and punish those responsible , saying this was an attempt to sabotage the peace process .\r",
+      {
+        "entities": [
+          [24, 35, "NORP"],
+          [46, 59, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "The bombing shatters weeks of calm after Mr. Abbas declared a truce during a summit with Israeli Prime Minister Ariel Sharon in Egypt earlier this month .\r",
+      {
+        "entities": [
+          [41, 50, "PERSON"],
+          [89, 96, "NORP"],
+          [112, 124, "PERSON"],
+          [128, 133, "GPE"],
+          [134, 152, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Indonesian officials say they have signed an initial agreement with Russia to build a space launch center on the remote island of Biak off the coast of Papua New Guinea .\r",
+      {
+        "entities": [
+          [0, 10, "GPE"],
+          [68, 74, "GPE"],
+          [120, 134, "LOC"],
+          [152, 168, "GPE"]
+        ]
+      }
+    ],
+    [
+      "An Indonesian foreign ministry spokesman says senior officials from both countries reached the preliminary agreement last week .\r",
+      { "entities": [[3, 13, "NORP"]] }
+    ],
+    [
+      "They say the island is well-suited for the project because of its proximity to the equator , which makes it easier to launch satellites into some Earth orbits .\r",
+      { "entities": [[146, 151, "LOC"]] }
+    ],
+    [
+      "The spokesman says a formal agreement on the project will be signed in June when Indonesian President Susilo Bambang Yudhoyono is scheduled to visit Moscow .\r",
+      {
+        "entities": [
+          [71, 75, "DATE"],
+          [81, 91, "NORP"],
+          [102, 126, "PERSON"],
+          [149, 155, "GPE"]
+        ]
+      }
+    ],
+    [
+      "An Algerian man goes on trial Monday in France for terrorist attacks on the Paris subway in 1995 .\r",
+      {
+        "entities": [
+          [3, 11, "NORP"],
+          [30, 36, "DATE"],
+          [40, 46, "GPE"],
+          [76, 81, "GPE"],
+          [92, 96, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Prosecutors say Rachid Ramda helped fund at least three bombings on the Paris metro .\r",
+      {
+        "entities": [
+          [16, 28, "PERSON"],
+          [72, 77, "GPE"]
+        ]
+      }
+    ],
+    [
+      "If he is convicted , Ramda could get life in prison .\r",
+      { "entities": [[21, 26, "PERSON"]] }
+    ],
+    [
+      "The 38-year-old is already serving a 10-year sentence in France after he was convicted last year on terrorism charges .\r",
+      {
+        "entities": [
+          [4, 15, "DATE"],
+          [37, 44, "DATE"],
+          [57, 63, "GPE"],
+          [87, 96, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Police say Ramda operated from London where investigators say they found evidence that he sent money to terrorists .\r",
+      {
+        "entities": [
+          [11, 16, "PERSON"],
+          [31, 37, "GPE"]
+        ]
+      }
+    ],
+    [
+      "He is accused of helping fund attacks carried out by an Algerian militant organization the Armed Islamic Group .\r",
+      {
+        "entities": [
+          [56, 64, "NORP"],
+          [87, 110, "ORG"]
+        ]
+      }
+    ],
+    [
+      "British police arrested Ramda in 1995 .\r",
+      {
+        "entities": [
+          [0, 14, "ORG"],
+          [24, 29, "PERSON"],
+          [33, 37, "DATE"]
+        ]
+      }
+    ],
+    [
+      "He fought extradition to France for 10 years .\r",
+      {
+        "entities": [
+          [25, 31, "GPE"],
+          [36, 44, "DATE"]
+        ]
+      }
+    ],
+    [
+      "In Monday 's trial , Ramda is facing charges of being an accomplice to at least three bombings on the Paris subway , including the July 25 , 1995 attack that killed eight people and injured more than 150 .\r",
+      {
+        "entities": [
+          [3, 9, "DATE"],
+          [21, 26, "PERSON"],
+          [102, 107, "GPE"],
+          [108, 114, "LOC"],
+          [131, 138, "DATE"],
+          [141, 145, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The United Nations says Sudanese refugees have begun returning from the Central African Republic under a new deal between the countries and the U.N. refugee agency .\r",
+      {
+        "entities": [
+          [0, 18, "NORP"],
+          [24, 32, "NORP"],
+          [72, 96, "GPE"],
+          [144, 148, "ORG"]
+        ]
+      }
+    ],
+    [
+      "The U.N. says the deal , which was signed Wednesday , will allow some 16,000 Sudanese refugees living in the CAR to voluntarily return home .\r",
+      {
+        "entities": [
+          [4, 8, "ORG"],
+          [42, 51, "DATE"],
+          [77, 85, "NORP"],
+          [109, 112, "GPE"]
+        ]
+      }
+    ],
+    [
+      "It says the first group of refugees was scheduled to fly home Thursday .\r",
+      { "entities": [[62, 70, "DATE"]] }
+    ],
+    [
+      "Five thousand refugees are expected to return to Sudan by April .\r",
+      {
+        "entities": [
+          [49, 54, "GPE"],
+          [58, 63, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The rest will go home by the end of the year .\r",
+      { "entities": [[29, 44, "DATE"]] }
+    ],
+    [
+      "The deal is one of several involving Sudan reached this week by the refugee agency and Sudan 's neighbors .\r",
+      {
+        "entities": [
+          [37, 42, "GPE"],
+          [56, 60, "DATE"],
+          [87, 92, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The U.N. says the other agreements will allow for the return of 13,000 Sudanese refugees living in the Democratic Republic of Congo , and for the return of nearly 7,000 Congolese refugees currently in Sudan .\r",
+      {
+        "entities": [
+          [4, 8, "ORG"],
+          [71, 79, "NORP"],
+          [103, 131, "GPE"],
+          [169, 178, "NORP"],
+          [201, 206, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Police in Japan say a teacher stabbed to death a 12-year-old girl Saturday in the country 's third killing of a school girl in less than three weeks .\r",
+      {
+        "entities": [
+          [10, 15, "GPE"],
+          [49, 60, "DATE"],
+          [66, 74, "DATE"],
+          [127, 148, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Yu Hagino , 23 , was arrested at the murder scene , a school in the western city of Uji .\r",
+      {
+        "entities": [
+          [0, 9, "PERSON"],
+          [84, 87, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Police say the suspect confessed to stabbing the girl with a knife after arguing with her .\r",
+      { "entities": [] }
+    ],
+    [
+      "The killing follows the recent murders of two school girls in the space of just over a week .\r",
+      { "entities": [[80, 91, "DATE"]] }
+    ],
+    [
+      "The two were killed in separate incidents as they walked home alone from elementary school along deserted roads .\r",
+      { "entities": [] }
+    ],
+    [
+      "Radical Islamic cleric Omar Bakri Mohammed has called on all Muslims to leave Europe .\r",
+      {
+        "entities": [
+          [23, 42, "PERSON"],
+          [78, 84, "LOC"]
+        ]
+      }
+    ],
+    [
+      "In an interview with French television to be broadcast Monday , Mr. Bakri says Muslims will one day return to LOC , and the Islamic flag will fly over Downing Street , the home of Britain 's prime minister .\r",
+      {
+        "entities": [
+          [21, 27, "NORP"],
+          [55, 61, "DATE"],
+          [64, 73, "PERSON"],
+          [110, 116, "GPE"],
+          [154, 168, "LOC"],
+          [183, 190, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The interview took place in Beirut where Mr. Bakri lives after the British government stripped him of his residency in its campaign to rein in radical Islamic leaders .\r",
+      {
+        "entities": [
+          [28, 34, "GPE"],
+          [41, 50, "PERSON"],
+          [67, 74, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Mr. Bakri triggered British outrage after the July 7 bombings in London when he said he would never tip off police if he knew a Muslim was about to carry out an attack .\r",
+      {
+        "entities": [
+          [0, 9, "PERSON"],
+          [20, 27, "NORP"],
+          [46, 52, "DATE"],
+          [65, 71, "GPE"],
+          [128, 134, "NORP"]
+        ]
+      }
+    ],
+    [
+      "In the France 3 interview , Mr. Bakri says the backgrounds of the four suicide bombers in the London attacks prove the message of al-Qaida chief Osama bin Laden has reached moderate communities .\r",
+      {
+        "entities": [
+          [7, 15, "ORG"],
+          [28, 37, "PERSON"],
+          [94, 100, "GPE"],
+          [130, 138, "ORG"],
+          [145, 160, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Iran 's defense minister has denounced remarks by the top U.S. military commander , who said Washington has not ruled out the use of force against Iran to prevent it from making nuclear weapons .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [58, 62, "GPE"],
+          [93, 103, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Joint Chiefs of Staff Chairman Mike Mullen said Sunday that the U.S. has a plan to strike Iran .\r",
+      {
+        "entities": [
+          [0, 21, "ORG"],
+          [31, 42, "PERSON"],
+          [48, 54, "DATE"],
+          [64, 68, "GPE"],
+          [90, 94, "GPE"]
+        ]
+      }
+    ],
+    [
+      "But Admiral Mullen said he hopes the military option is not needed .\r",
+      { "entities": [[4, 18, "PERSON"]] }
+    ],
+    [
+      "Iran 's defense minister , Brigadier General Ahmad Vahidi , said Tuesday that U.S. threats to attack his country violate the United Nations charter .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [27, 57, "PERSON"],
+          [65, 72, "DATE"],
+          [78, 82, "GPE"],
+          [125, 139, "GPE"]
+        ]
+      }
+    ],
+    [
+      "He warned that Tehran has drawn up defensive plans that would make its enemies regret any attack .\r",
+      { "entities": [[15, 21, "GPE"]] }
+    ],
+    [
+      "The United States and other Western countries accuse Iran of secretly developing nuclear weapons under cover of a civilian energy program - a charge Iran denies .\r",
+      {
+        "entities": [
+          [4, 17, "GPE"],
+          [28, 45, "NORP"],
+          [53, 57, "GPE"],
+          [149, 153, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Admiral Mullen said he hopes the combination of sanctions and diplomatic efforts will resolve the dispute .\r",
+      { "entities": [[0, 14, "PERSON"]] }
+    ],
+    [
+      "Georgia 's president has announced plans for his country to get emergency natural gas supplies from Iran to help end the country 's shortage of both gas and electricity .\r",
+      {
+        "entities": [
+          [0, 7, "GPE"],
+          [100, 104, "GPE"]
+        ]
+      }
+    ],
+    [
+      "President Mikhail Saakashvili told cabinet members Friday that gas from Iran is expected to begin flowing into Georgia beginning Sunday or , at the latest , Monday .\r",
+      {
+        "entities": [
+          [10, 29, "PERSON"],
+          [51, 57, "DATE"],
+          [72, 76, "GPE"],
+          [111, 118, "GPE"],
+          [129, 135, "DATE"],
+          [157, 163, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Residents in the former Soviet republic have been enduring freezing weather with limited supplies after explosions on pipelines delivering Russian natural gas .\r",
+      {
+        "entities": [
+          [17, 39, "NORP"],
+          [139, 146, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Russian authorities deny Georgian charges that they deliberately cut supplies , and insist the pipelines were sabotaged .\r",
+      {
+        "entities": [
+          [0, 7, "NORP"],
+          [25, 33, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Repairs are due to be completed by Sunday .\r",
+      { "entities": [[35, 41, "DATE"]] }
+    ],
+    [
+      "Georgia is heavily dependent on Russian natural gas .\r",
+      {
+        "entities": [
+          [0, 7, "GPE"],
+          [32, 39, "NORP"]
+        ]
+      }
+    ],
+    [
+      "President Saakashvili says the agreement with Iran shows his country has alternative sources .\r",
+      {
+        "entities": [
+          [10, 21, "PERSON"],
+          [46, 50, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Millions of Georgians have also been without electricity because of a breakdown of a unit at a power station , as well as downed power lines .\r",
+      { "entities": [[12, 21, "NORP"]] }
+    ],
+    [
+      "Peru 's former President , Alberto Fujimori , has told authorities he is trying to form a political alliance to support his bid to run in next April 's presidential election .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [27, 43, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "In a visit to the Peruvian consulate in Tokyo Wednesday , Mr. Fujimori had his signature validated on a document joining his Si Cumple party with two other political parties .\r",
+      {
+        "entities": [
+          [18, 26, "NORP"],
+          [40, 45, "GPE"],
+          [46, 55, "DATE"],
+          [58, 70, "PERSON"],
+          [125, 134, "ORG"]
+        ]
+      }
+    ],
+    [
+      "The consulate said it notarized his signature , but not the contents of the document .\r",
+      { "entities": [] }
+    ],
+    [
+      "The disgraced ex-president and son of Japanese parents fled to Japan in 2000 , where he was granted citizenship .\r",
+      {
+        "entities": [
+          [38, 46, "NORP"],
+          [63, 68, "GPE"],
+          [72, 76, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The exiled president is wanted in Peru to face charges of corruption and human rights abuses related to the death squad murders of 25 people .\r",
+      { "entities": [[34, 38, "GPE"]] }
+    ],
+    [
+      "Mr. Fujimori , Peru 's hard-line ruler from 1990 to 2000 , has denied the charges , calling them politically motivated .\r",
+      {
+        "entities": [
+          [0, 12, "PERSON"],
+          [15, 19, "GPE"],
+          [44, 48, "DATE"],
+          [52, 56, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Tokyo has refused requests from Lima for his extradition .\r",
+      {
+        "entities": [
+          [0, 5, "GPE"],
+          [32, 36, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The British Embassy in Sudan 's capital has re-opened to the public , four days after it was closed because of a possible terrorist threat .\r",
+      {
+        "entities": [
+          [4, 19, "ORG"],
+          [23, 28, "ORG"],
+          [70, 79, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The embassy said in a statement Thursday that \" additional security \" has allowed it to resume normal consular and visa services .\r",
+      { "entities": [[32, 40, "DATE"]] }
+    ],
+    [
+      "The statement also thanked the Sudanese government for its cooperation .\r",
+      { "entities": [[31, 39, "NORP"]] }
+    ],
+    [
+      "Earlier this week , the government said it had broken up a plot to attack several Western diplomatic missions in the capital , Khartoum .\r",
+      {
+        "entities": [
+          [82, 89, "NORP"],
+          [127, 135, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The state news agency reported that police had arrested eight Sudanese men and confiscated arms and explosives .\r",
+      { "entities": [[62, 70, "NORP"]] }
+    ],
+    [
+      "The British Embassy has advised British citizens to avoid travel to Khartoum .\r",
+      {
+        "entities": [
+          [4, 19, "ORG"],
+          [68, 76, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Kenyan police have opened fire at hundreds of people demonstrating against cartoons depicting the Prophet Muhammad , as protests across the Muslim world showed no signs of abating .\r",
+      {
+        "entities": [
+          [0, 13, "NORP"],
+          [98, 114, "PERSON"],
+          [140, 146, "NORP"]
+        ]
+      }
+    ],
+    [
+      "At least one Kenyan was wounded Friday when protesters tried to march on the Danish embassy in Nairobi , shouting anti-Denmark slogans and burning Danish flags .\r",
+      {
+        "entities": [
+          [13, 19, "NORP"],
+          [32, 38, "DATE"],
+          [77, 91, "ORG"],
+          [95, 102, "GPE"],
+          [147, 153, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Muslims also demonstrated Friday in cities across the Middle East as well as in India , Pakistan , Afghanistan , Bangladesh , Malaysia , and Venezuela .\r",
+      {
+        "entities": [
+          [0, 7, "NORP"],
+          [26, 32, "DATE"],
+          [80, 85, "GPE"],
+          [88, 96, "GPE"],
+          [99, 110, "GPE"],
+          [113, 123, "GPE"],
+          [126, 134, "GPE"],
+          [141, 150, "GPE"]
+        ]
+      }
+    ],
+    [
+      "In France , a Muslim organization - the French Council of the Muslim Faith - said it was launching legal action against French newspapers that published the cartoons , one of which depicts the Prophet Muhammad wearing a turban shaped like a bomb .\r",
+      {
+        "entities": [
+          [3, 9, "GPE"],
+          [40, 68, "ORG"],
+          [120, 126, "NORP"],
+          [193, 209, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Malaysian Prime Minister Abdullah Ahmad Badawi told an international conference Friday the Muslim world and the West must stop demonizing each other and \" accept one another as equals . \"\r",
+      {
+        "entities": [
+          [0, 9, "NORP"],
+          [25, 46, "PERSON"],
+          [80, 86, "DATE"],
+          [91, 97, "NORP"],
+          [112, 116, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The death toll from a coal mining accident in northwestern China rose to 32 Wednesday after searchers recovered the body of the last missing miner .\r",
+      {
+        "entities": [
+          [46, 64, "GPE"],
+          [76, 85, "DATE"]
+        ]
+      }
+    ],
+    [
+      "China 's state-run media say 39 people were working at the privately-owned coal mine in Shaanxi province on Saturday when a gas explosion occurred .\r",
+      {
+        "entities": [
+          [0, 5, "GPE"],
+          [88, 104, "GPE"],
+          [108, 116, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Seven miners managed to reach the surface , but the others were trapped .\r",
+      { "entities": [] }
+    ],
+    [
+      "The Xinhua news agency says police have detained the owner and managers of the mine , but provided no other details .\r",
+      { "entities": [[4, 22, "ORG"]] }
+    ],
+    [
+      "Chinese mines are among the most dangerous in the world .\r",
+      { "entities": [[0, 7, "NORP"]] }
+    ],
+    [
+      "Thousands of people are killed every year in explosions , cave-ins and floods , despite government crackdowns on safety violations .\r",
+      { "entities": [] }
+    ],
+    [
+      "India and Pakistan plan to hold a third round of peace talks in January with a focus on security , the Kashmir issue and confidence-building measures between the nuclear rivals .\r",
+      {
+        "entities": [
+          [0, 5, "GPE"],
+          [10, 18, "GPE"],
+          [64, 71, "DATE"],
+          [99, 110, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The two-day talks will begin on January 17 and they will be led by the countries ' foreign secretaries .\r",
+      {
+        "entities": [
+          [4, 11, "DATE"],
+          [32, 42, "DATE"]
+        ]
+      }
+    ],
+    [
+      "They will review progress made so far and also chart a course for future negotiations .\r",
+      { "entities": [] }
+    ],
+    [
+      "The talks will be under a peace process that the two sides began in January 2004 .\r",
+      { "entities": [[68, 80, "DATE"]] }
+    ],
+    [
+      "A foreign office spokeswoman in Islamabad also said that the two sides have been holding secret talks on possible reduction of forces in Kashmir and a Pakistani proposal of self-rule in Kashmir .\r",
+      {
+        "entities": [
+          [32, 41, "GPE"],
+          [137, 144, "LOC"],
+          [151, 160, "NORP"],
+          [186, 193, "LOC"]
+        ]
+      }
+    ],
+    [
+      "She did not give any more details and also declined to reveal at what level the talks are being held .\r",
+      { "entities": [] }
+    ],
+    [
+      "India has not made any comment about the talks .\r",
+      { "entities": [[0, 5, "GPE"]] }
+    ],
+    [
+      "Iraqi officials say at least two people were killed and several others wounded in a car bomb blast in central Baghdad Tuesday .\r",
+      {
+        "entities": [
+          [0, 5, "NORP"],
+          [110, 117, "GPE"],
+          [118, 125, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Earlier reports said the attack was carried out by a suicide bomber .\r",
+      { "entities": [] }
+    ],
+    [
+      "It came as the U.S. military announced it had rounded up 428 suspects over the past 30 hours in a major operation against insurgents in a western suburb of the capital .\r",
+      {
+        "entities": [
+          [15, 19, "NORP"],
+          [84, 92, "DATE"]
+        ]
+      }
+    ],
+    [
+      "On Monday , dozens of people were killed and scores were hurt in a series of car bombings and other attacks in cities and towns across Iraq .\r",
+      {
+        "entities": [
+          [3, 9, "DATE"],
+          [135, 139, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Also Monday , an al-Qaida-linked group claimed responsibility for gunning down a top Iraqi security official ( Wael al-Rubaei ) and his driver in Baghdad .\r",
+      {
+        "entities": [
+          [5, 11, "DATE"],
+          [17, 32, "ORG"],
+          [85, 90, "NORP"],
+          [111, 125, "PERSON"],
+          [146, 153, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Iran 's hard-line Guardian Council has approved a bill that would block United Nations inspections of its nuclear facilities and allow it to resume uranium enrichment if it is referred to the U.N. Security Council .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [18, 34, "ORG"],
+          [72, 86, "NORP"],
+          [192, 213, "ORG"]
+        ]
+      }
+    ],
+    [
+      "State media report Saturday that the 12-member council approved the measure after deciding it does not contradict the constitution or Islamic law .\r",
+      {
+        "entities": [
+          [19, 27, "DATE"],
+          [134, 141, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The parliament already approved the bill last month .\r",
+      { "entities": [] }
+    ],
+    [
+      "The final step will be President Mahmoud Ahmadinejad 's signature .\r",
+      { "entities": [[33, 52, "PERSON"]] }
+    ],
+    [
+      "The move could jeopardize nuclear talks with Europe that Iran said it expects will resume within weeks .\r",
+      {
+        "entities": [
+          [45, 51, "LOC"],
+          [57, 61, "GPE"],
+          [97, 102, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Those talks collapsed in August , when Tehran restarted converting uranium - the precursor of enrichment .\r",
+      {
+        "entities": [
+          [25, 31, "DATE"],
+          [39, 45, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Last year , Tehran suspended enrichment as a good faith measure to allay international concerns it is secretly pursuing nuclear weapons , a charge its government denies .\r",
+      {
+        "entities": [
+          [0, 9, "DATE"],
+          [12, 18, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Zambian officials say reports that President Levy Mwanawasa has died are FALSE .\r",
+      {
+        "entities": [
+          [0, 7, "NORP"],
+          [45, 59, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Information Minister Mike Mulongoti made a televised address Thursday to say the foreign media reports are not TRUE .\r",
+      {
+        "entities": [
+          [21, 35, "PERSON"],
+          [61, 69, "DATE"]
+        ]
+      }
+    ],
+    [
+      "He said President Mwanawasa remains in stable condition in a Paris hospital , and is being treated for hypertension .\r",
+      {
+        "entities": [
+          [18, 27, "PERSON"],
+          [61, 66, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Mr. Mwanawasa was flown to France Tuesday after suffering a stroke Sunday while in Egypt for an African Union summit .\r",
+      {
+        "entities": [
+          [0, 13, "PERSON"],
+          [27, 33, "GPE"],
+          [34, 41, "DATE"],
+          [67, 73, "DATE"],
+          [83, 88, "GPE"],
+          [96, 116, "ORG"]
+        ]
+      }
+    ],
+    [
+      "The summit was dominated by the political crisis in Zimbabwe , and the absence of Mr. Mwanawasa , a critic of Zimbabwean President Robert Mugabe , was said to hurt attempts to put more pressure on Harare .\r",
+      {
+        "entities": [
+          [52, 60, "GPE"],
+          [82, 95, "PERSON"],
+          [131, 144, "PERSON"],
+          [197, 203, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Mr. Mwanawasa is 59 years old and has served as Zambia 's president since 2002 .\r",
+      {
+        "entities": [
+          [0, 13, "PERSON"],
+          [48, 54, "GPE"],
+          [68, 78, "DATE"]
+        ]
+      }
+    ],
+    [
+      "He is also the current leader of the Southern African Development Community .\r",
+      { "entities": [[37, 75, "ORG"]] }
+    ],
+    [
+      "He suffered a mild stroke two years ago .\r",
+      { "entities": [[26, 39, "DATE"]] }
+    ],
+    [
+      "U.S. President Barack Obama has named Gene Sperling as the new head of the National Economic Council , which oversees the administration 's economic policies .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [15, 27, "PERSON"],
+          [38, 51, "PERSON"],
+          [75, 100, "ORG"]
+        ]
+      }
+    ],
+    [
+      "Sperling had the same job in President Bill Clinton 's administration .\r",
+      {
+        "entities": [
+          [0, 8, "PERSON"],
+          [39, 51, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "He succeeds Lawrence Summers , another top economic official from the Clinton-era .\r",
+      {
+        "entities": [
+          [12, 28, "PERSON"],
+          [70, 81, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Sperling has spent the first two years of the Obama administration as a counselor to Treasury Secretary Timothy Geithner .\r",
+      {
+        "entities": [
+          [0, 8, "PERSON"],
+          [23, 38, "DATE"],
+          [46, 51, "PERSON"],
+          [85, 103, "ORG"],
+          [104, 120, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Mr. Obama made the announcement Friday during a visit to a window manufacturer located outside of Washington , D.C.\r",
+      {
+        "entities": [
+          [4, 9, "PERSON"],
+          [32, 38, "DATE"],
+          [98, 115, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Sperling 's appointment is the latest major staff change for the Obama administration as it begins dealing with a new Republican majority in the House of Representatives , and planning for the president 's likely re-election campaign in 2012 .\r",
+      {
+        "entities": [
+          [0, 8, "PERSON"],
+          [65, 70, "PERSON"],
+          [114, 128, "ORG"],
+          [145, 169, "ORG"],
+          [237, 241, "DATE"]
+        ]
+      }
+    ],
+    [
+      "On Thursday , Mr. Obama named another ex-Clinton official , William Daley , as his new chief of staff , replacing Rahm Emmanuel .\r",
+      {
+        "entities": [
+          [3, 11, "DATE"],
+          [14, 23, "PERSON"],
+          [38, 48, "NORP"],
+          [60, 73, "PERSON"],
+          [114, 127, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Authorities in Bosnia-Herzegovina say they have arrested a former Bosnian Serb police officer for his suspected role in the 1995 massacre of Muslims near the eastern Bosnian town of Srebrenica .\r",
+      {
+        "entities": [
+          [15, 33, "GPE"],
+          [66, 78, "NORP"],
+          [124, 128, "DATE"],
+          [141, 148, "NORP"],
+          [158, 178, "LOC"],
+          [182, 192, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The state prosecutor 's office says 37-year-old Dragan Neskovic was arrested Wednesday in the northeastern town of Bijeljina on suspicion of genocide .\r",
+      {
+        "entities": [
+          [48, 63, "PERSON"],
+          [77, 86, "DATE"],
+          [94, 111, "LOC"],
+          [115, 124, "GPE"]
+        ]
+      }
+    ],
+    ["No further details were released .\r", { "entities": [] }],
+    [
+      "More than 8,000 Muslim men and boys were killed by Serb forces in July 1995 in what was supposed to have been a United Nations safe haven .\r",
+      {
+        "entities": [
+          [16, 22, "NORP"],
+          [51, 62, "NORP"],
+          [66, 75, "DATE"],
+          [112, 126, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The Srebrenica killings are considered the worst European massacre since World War II .\r",
+      {
+        "entities": [
+          [4, 14, "GPE"],
+          [49, 57, "NORP"],
+          [73, 85, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The U.N. war crimes tribunal in The Hague has already sentenced 14 Serbs for their key roles in the killings .\r",
+      {
+        "entities": [
+          [4, 8, "ORG"],
+          [32, 41, "GPE"],
+          [64, 72, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Former Bosnian Serb leader Radovan Karadzic is currently on trial there , charged with genocide and crimes against humanity .\r",
+      {
+        "entities": [
+          [7, 19, "NORP"],
+          [27, 43, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "The Bosnian war crimes court was established in 2005 to ease the workload of the Hague-based tribunal .\r",
+      {
+        "entities": [
+          [4, 28, "ORG"],
+          [48, 52, "DATE"],
+          [81, 92, "GPE"]
+        ]
+      }
+    ],
+    [
+      "China 's official Xinhua news agency says archaeologists have discovered the ruins of 29 villages that date back more than 4,500 years .\r",
+      {
+        "entities": [
+          [0, 5, "GPE"],
+          [18, 24, "ORG"],
+          [123, 134, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The report said the ancient communities were discovered in the northern part of Shaanxi province , a region known for its archaeological treasures .\r",
+      {
+        "entities": [
+          [63, 76, "LOC"],
+          [80, 87, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Xinhua says the ruins show that people had mastered building techniques and had constructed houses and stone walls around their community .\r",
+      { "entities": [[0, 6, "ORG"]] }
+    ],
+    [
+      "It said a total of 96 houses were unearthed , as well as the ruins of a sacrificial altar .\r",
+      { "entities": [] }
+    ],
+    [
+      "The report quoted an official with the Shaanxi Provincial Archaeological Research Institute as saying the discovery will help scientists better understand the environment during the Neolithic period , also known as the New Stone Age .\r",
+      { "entities": [[39, 91, "ORG"]] }
+    ],
+    [
+      "A United Nations expert on extrajudicial killings says he would like to visit Thailand to investigate last month 's deaths of 87 Muslim protesters .\r",
+      {
+        "entities": [
+          [2, 16, "NORP"],
+          [78, 86, "GPE"],
+          [129, 135, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Philip Alston said he is deeply concerned by the October 25 incident .\r",
+      {
+        "entities": [
+          [0, 13, "PERSON"],
+          [49, 59, "DATE"]
+        ]
+      }
+    ],
+    [
+      "He said a visit to Thailand would allow him to speak with those involved and to recommend ways to bring peace and stability to the region .\r",
+      { "entities": [[19, 27, "GPE"]] }
+    ],
+    [
+      "Thailand has not responded to Mr. Alston 's request .\r",
+      {
+        "entities": [
+          [0, 8, "GPE"],
+          [30, 40, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Meanwhile , Thailand 's revered King Bhumibol Adulyadej warned that the country could fall into ruin if the violence in the south does not end .\r",
+      {
+        "entities": [
+          [12, 20, "GPE"],
+          [32, 55, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "He urged security forces to better cooperate to deal with the region 's turmoil .\r",
+      { "entities": [] }
+    ],
+    [
+      "Hundreds of people have been killed since January when an insurgency flared up in Thailand 's three Muslim-majority southern provinces .\r",
+      {
+        "entities": [
+          [42, 49, "DATE"],
+          [82, 90, "GPE"],
+          [100, 115, "NORP"],
+          [116, 134, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Israeli soldiers have killed two Palestinians in the southern Gaza Strip .\r",
+      {
+        "entities": [
+          [0, 7, "NORP"],
+          [33, 45, "NORP"],
+          [53, 72, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Witnesses say the two men were killed early Friday near the security barrier separating southern Gaza with Israel .\r",
+      {
+        "entities": [
+          [44, 50, "DATE"],
+          [60, 76, "LOC"],
+          [88, 101, "GPE"],
+          [107, 113, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Israeli military officials say troops had spotted the men attempting to plant bombs along the barrier .\r",
+      { "entities": [[0, 7, "NORP"]] }
+    ],
+    [
+      "The killings were the latest in a series of clashes between the Israeli army and Palestinian militants .\r",
+      {
+        "entities": [
+          [64, 71, "NORP"],
+          [81, 92, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Israeli soldiers killed five Palestinians Thursday during an army operation in the West Bank city of Nablus .\r",
+      {
+        "entities": [
+          [0, 7, "NORP"],
+          [29, 41, "NORP"],
+          [42, 50, "DATE"],
+          [83, 97, "LOC"],
+          [101, 107, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Officials say three of the dead were wanted militants from the al-Aqsa Martyrs ' Brigades , a violent offshoot of the mainstream Fatah Party .\r",
+      {
+        "entities": [
+          [63, 89, "ORG"],
+          [129, 140, "ORG"]
+        ]
+      }
+    ],
+    [
+      "Palestinian President Mahmoud Abbas and incoming Hamas Prime Minister Ismail Haniyeh Friday denounced the Israeli military 's sweep through the Nablus refugee camps .\r",
+      {
+        "entities": [
+          [0, 11, "NORP"],
+          [22, 35, "PERSON"],
+          [70, 84, "PERSON"],
+          [85, 91, "DATE"],
+          [106, 113, "NORP"],
+          [144, 164, "ORG"]
+        ]
+      }
+    ],
+    [
+      "The head of U.S. troops in the Horn of Africa says terrorists and insurgents may begin leaving war zones in Afghanistan and Iraq and head for east Africa .\r",
+      {
+        "entities": [
+          [12, 16, "GPE"],
+          [31, 45, "LOC"],
+          [108, 119, "GPE"],
+          [124, 128, "GPE"],
+          [142, 153, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Major General Timothy Ghormley says officials are concerned that instability and weak governments in east Africa could draw international terrorist groups seeking to establish a base of operations .\r",
+      {
+        "entities": [
+          [0, 30, "PERSON"],
+          [101, 112, "LOC"]
+        ]
+      }
+    ],
+    [
+      "General Ghormley says the joint task force in Djibouti has been helping to train foreign soldiers and build anti-terrorist capabilities of governments in the region .\r",
+      {
+        "entities": [
+          [0, 16, "PERSON"],
+          [46, 54, "GPE"]
+        ]
+      }
+    ],
+    [
+      "However , U.S. forces have yet to enter Somalia , which has been without a functioning central government for more than 10 years .\r",
+      {
+        "entities": [
+          [10, 14, "GPE"],
+          [40, 47, "GPE"],
+          [120, 128, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Earlier this year , Ethiopian Prime Minister Meles Zenawi warned an al-Qaida cell is already operating out of Somalia 's capital , Mogadishu .\r",
+      {
+        "entities": [
+          [20, 29, "NORP"],
+          [45, 57, "PERSON"],
+          [68, 76, "NORP"],
+          [110, 117, "GPE"],
+          [131, 140, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Ugandan Lord 's Resistance Army rebels are seeking a 12-month suspension in the arrest warrants against their leaders issued by the International Criminal Court .\r",
+      {
+        "entities": [
+          [0, 31, "ORG"],
+          [132, 160, "ORG"]
+        ]
+      }
+    ],
+    [
+      "James Obita , the technical advisor to the rebels ' negotiating team , tells VOA the rebels will ask for the suspension when peace talks with the Ugandan government resume Thursday in Juba , southern Sudan .\r",
+      {
+        "entities": [
+          [0, 11, "PERSON"],
+          [77, 80, "ORG"],
+          [146, 153, "NORP"],
+          [172, 180, "DATE"],
+          [184, 188, "GPE"],
+          [191, 205, "GPE"]
+        ]
+      }
+    ],
+    [
+      "He says in connection with that request , the rebels will propose an \" alternative justice system \" to deal with war crimes committed during the rebels ' 20-year uprising in northern Uganda .\r",
+      {
+        "entities": [
+          [154, 161, "DATE"],
+          [174, 189, "GPE"]
+        ]
+      }
+    ],
+    [
+      "LRA fighters are accused of killing and mutilating thousands of civilians during the conflict .\r",
+      { "entities": [[0, 3, "ORG"]] }
+    ],
+    [
+      "The International Criminal Court has indicted five top rebel leaders on war crimes charges .\r",
+      { "entities": [[0, 32, "ORG"]] }
+    ],
+    [
+      "The LRA has demanded those charges be dropped as a condition for signing any peace deal .\r",
+      { "entities": [[0, 7, "ORG"]] }
+    ],
+    [
+      "The 10-month-old peace talks have achieved some progress , including a ceasefire that the sides extended in April .\r",
+      {
+        "entities": [
+          [4, 16, "ORG"],
+          [108, 113, "DATE"]
+        ]
+      }
+    ],
+    [
+      "A group linked to al-Qaida in Iraq is denying Iraqi government reports that its leader was recently arrested .\r",
+      {
+        "entities": [
+          [18, 26, "ORG"],
+          [30, 34, "GPE"],
+          [46, 51, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The Islamic State of Iraq says the man it claims is its leader , Abu Omar al-Baghdadi , is fine .\r",
+      {
+        "entities": [
+          [4, 11, "NORP"],
+          [21, 25, "GPE"],
+          [65, 85, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "The group says on an Islamist Web site it does not know the person who Iraqi authorities arrested last month and presented as al-Baghdadi .\r",
+      {
+        "entities": [
+          [21, 29, "NORP"],
+          [71, 76, "NORP"],
+          [126, 137, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "The Iraqi army said it captured the Sunni insurgent leader in the Iraqi capital , Baghdad .\r",
+      {
+        "entities": [
+          [36, 51, "PERSON"],
+          [66, 71, "NORP"],
+          [82, 89, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The United States did not confirm the report .\r",
+      { "entities": [[4, 17, "GPE"]] }
+    ],
+    [
+      "Iraqi authorities in the past have announced the arrest or killing of major insurgent leaders , to only later say the reports were FALSE .\r",
+      { "entities": [[0, 5, "NORP"]] }
+    ],
+    [
+      "In addition , U.S. military commander General Kevin Bergner previously had said al-Baghdadi may not be a real person , but rather a fictional character created to put an Iraqi face on the otherwise foreign leadership of al-Qaida in Iraq .\r",
+      {
+        "entities": [
+          [14, 18, "GPE"],
+          [38, 59, "PERSON"],
+          [80, 91, "PERSON"],
+          [170, 175, "NORP"],
+          [220, 228, "ORG"],
+          [232, 236, "GPE"]
+        ]
+      }
+    ],
+    [
+      "U.S. military officials have announced changes to military trials of terrorism suspects being held at the U.S. naval base in Guantanamo Bay , Cuba .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [106, 110, "GPE"],
+          [125, 139, "LOC"],
+          [142, 146, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Air Force Brigadier General Thomas Hemingway said Wednesday the so-called \" improvements \" will bring the process closer to the American judge-and-jury system .\r",
+      {
+        "entities": [
+          [0, 9, "ORG"],
+          [20, 44, "PERSON"],
+          [50, 59, "DATE"],
+          [128, 136, "NORP"]
+        ]
+      }
+    ],
+    [
+      "He said the presiding officer at the trial will function more like a judge than under the previous system , and other officers will act like a jury .\r",
+      { "entities": [] }
+    ],
+    [
+      "Some human rights groups rejected the changes for not going far enough , noting there is still no option for appeal to an independent court .\r",
+      { "entities": [] }
+    ],
+    [
+      "U.S. military officials have filed charges against four detainees at Guantanamo , where more than 500 terror suspects are being held .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [69, 79, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Meantime Center for Constitutional Rights said some prisoners have launched a hunger strike to protest their conditions .\r",
+      { "entities": [] }
+    ],
+    [
+      "A landmine blast in southern Afghanistan has killed nine Afghan soldiers .\r",
+      {
+        "entities": [
+          [20, 40, "GPE"],
+          [57, 63, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The Taleban later claimed responsibility for the blast in Kandahar province .\r",
+      {
+        "entities": [
+          [4, 11, "NORP"],
+          [58, 66, "GPE"]
+        ]
+      }
+    ],
+    [
+      "An Afghan Army spokesman said the troops were traveling towards the nearby Pakistani border when their vehicle hit the mine .\r",
+      {
+        "entities": [
+          [3, 9, "NORP"],
+          [75, 84, "NORP"]
+        ]
+      }
+    ],
+    [
+      "U.S.-led forces are hunting down remnants of Afghanistan 's ousted Taleban regime who frequently carry out hit and run attacks on coalition and Afghan government forces , mainly in the country 's eastern and southern regions .\r",
+      {
+        "entities": [
+          [0, 8, "GPE"],
+          [45, 56, "GPE"],
+          [67, 74, "NORP"],
+          [144, 150, "NORP"],
+          [196, 203, "LOC"],
+          [208, 216, "LOC"]
+        ]
+      }
+    ],
+    [
+      "Four key Palestinian militant groups say they are ending a truce aimed at easing attacks on Israel .\r",
+      {
+        "entities": [
+          [9, 20, "NORP"],
+          [92, 98, "GPE"]
+        ]
+      }
+    ],
+    [
+      "In separate statements issued Sunday , Hamas and the Popular Resistance Committees said they were no longer bound by the truce deal brokered last March by Palestinian Authority President Mahmoud Abbas .\r",
+      {
+        "entities": [
+          [30, 36, "DATE"],
+          [39, 44, "ORG"],
+          [53, 82, "ORG"],
+          [146, 151, "DATE"],
+          [155, 166, "NORP"],
+          [187, 200, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "The al-Aqsa Martyrs Brigades and Islamic Jihad also scrapped the deal , and said they had fired rockets early today into southern Israel .\r",
+      {
+        "entities": [
+          [4, 28, "ORG"],
+          [33, 46, "ORG"],
+          [121, 136, "GPE"]
+        ]
+      }
+    ],
+    [
+      "In a separate development , gunmen in the Gaza Strip stormed a club for United Nations workers and blew up a hall where alcohol was served .\r",
+      {
+        "entities": [
+          [42, 52, "GPE"],
+          [72, 86, "NORP"]
+        ]
+      }
+    ],
+    [
+      "There were no reports of injuries and no claim of responsibility .\r",
+      { "entities": [] }
+    ],
+    [
+      "A short while later , gunmen in Gaza kidnapped an Italian activist near Khan Younis , but later released him .\r",
+      {
+        "entities": [
+          [32, 36, "GPE"],
+          [50, 57, "NORP"],
+          [72, 83, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Coalition troops in Iraq have captured a suspected al-Qaida terrorist during a raid on the home of a senior Sunni Arab politician , Adnan al-Dulaymi .\r",
+      {
+        "entities": [
+          [20, 24, "GPE"],
+          [51, 59, "ORG"],
+          [132, 148, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "U.S. officials say they believe the man was involved in planning car bomb attacks on Baghdad 's Green Zone , which houses government , diplomatic and military offices .\r",
+      {
+        "entities": [
+          [85, 92, "GPE"],
+          [96, 106, "LOC"]
+        ]
+      }
+    ],
+    [
+      "The man is identified as a bodyguard at Mr. Dulaymi 's home in the Iraqi capital .\r",
+      {
+        "entities": [
+          [40, 51, "PERSON"],
+          [67, 72, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Officials say the raid does not imply the politician himself is involved in illegal activity .\r",
+      { "entities": [] }
+    ],
+    [
+      "On Friday , Iraqi authorities imposed a curfew in Baghdad , because of fears of new violence .\r",
+      {
+        "entities": [
+          [3, 9, "DATE"],
+          [12, 17, "NORP"],
+          [50, 57, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The ban on pedestrians and vehicles was expected to remain in effect until Sunday .\r",
+      { "entities": [[75, 81, "DATE"]] }
+    ],
+    [
+      "In the northern city of Tal Afar , a car bomb exploded Saturday , killing two people and wounding 30 others .\r",
+      {
+        "entities": [
+          [24, 32, "GPE"],
+          [55, 63, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The U.S. military says the Iraqi army has captured three suspected al-Qaida in Iraq leaders involved in roadside bomb attacks .\r",
+      {
+        "entities": [
+          [4, 8, "GPE"],
+          [27, 32, "NORP"],
+          [67, 75, "ORG"],
+          [79, 83, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Statements Wednesday say the suspects were detained in separate operations north of Baghdad in Kirkuk province , and in the towns of Tarmiyah and Judaidah .\r",
+      {
+        "entities": [
+          [11, 20, "DATE"],
+          [84, 91, "GPE"],
+          [133, 141, "GPE"],
+          [146, 154, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The military says U.S. Special Forces advised the Iraqi army in all three operations .\r",
+      {
+        "entities": [
+          [18, 22, "GPE"],
+          [50, 55, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The U.S. military also says Iraqi special operations forces detained seven suspected criminals in and around Baghdad 's Sadr City district , a stronghold of radical Shi'ite cleric Moqtada al-Sadr .\r",
+      {
+        "entities": [
+          [4, 8, "GPE"],
+          [28, 33, "NORP"],
+          [109, 116, "GPE"],
+          [120, 124, "GPE"]
+        ]
+      }
+    ],
+    [
+      "U.S. and Iraqi soldiers have been fighting Shi'ite militants in Sadr City in recent weeks as part of a crackdown on illegal militias .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [9, 14, "NORP"],
+          [64, 73, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The United Nations reports a halt to international aid work in the displaced persons ' camps of Zalinge , in Sudan 's Darfur region .\r",
+      {
+        "entities": [
+          [4, 18, "NORP"],
+          [96, 103, "GPE"],
+          [109, 114, "GPE"],
+          [118, 124, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The U.N. refugee agency says international groups suspended their activities in the camps after a mob killed three water workers on Thursday .\r",
+      {
+        "entities": [
+          [4, 8, "NORP"],
+          [132, 140, "DATE"]
+        ]
+      }
+    ],
+    ["It was unclear what caused the violence .\r", { "entities": [] }],
+    [
+      "Friday , spokesman Ron Redmond said agency is \" extremely concerned \" about what he called the continued deterioration in Darfur 's security situation .\r",
+      {
+        "entities": [
+          [0, 6, "DATE"],
+          [19, 30, "PERSON"],
+          [122, 128, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Redmond listed a number of attacks on relief groups over the past week , including one where an aid worker was shot dead in North Darfur .\r",
+      {
+        "entities": [
+          [0, 7, "PERSON"],
+          [124, 136, "GPE"]
+        ]
+      }
+    ],
+    [
+      "World leaders have been pressing Sudan to accept a U.N. peacekeeping force in Darfur .\r",
+      {
+        "entities": [
+          [33, 38, "GPE"],
+          [51, 55, "NORP"],
+          [78, 84, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The government is still rejecting any U.N. deployment to the region , where more than three years of violence has killed nearly 2,00,000 people , and displaced some two million others .\r",
+      { "entities": [[38, 42, "NORP"]] }
+    ],
+    [
+      "Iraq 's parliament has approved six new government ministers , including four from the country 's Sunni minority which held power under Saddam Hussein .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [136, 150, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "However , the Sunni Human Rights appointee Hashem Ashibli quickly turned down the post , leaving a single vacancy in the 33-member cabinet .\r",
+      {
+        "entities": [
+          [14, 19, "ORG"],
+          [43, 57, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "He said he could not accept a position awarded on a sectarian basis .\r",
+      { "entities": [] }
+    ],
+    [
+      "A Sunni Arab , Saadoun al-Dulaimi , has been approved as defense minister , and a Shi'ite ( Ibrahim Bahr al-Uloum ) will head the all-important oil ministry .\r",
+      {
+        "entities": [
+          [15, 33, "PERSON"],
+          [92, 113, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "Top slots in the ministries of industry and electricity were also filled , along with a third deputy prime minister position .\r",
+      { "entities": [] }
+    ],
+    [
+      "Meanwhile , Iraqi police say gunmen assassinated a senior member of the Transportation Ministry Zoba Yass and his driver today in Baghdad .\r",
+      {
+        "entities": [
+          [12, 17, "NORP"],
+          [96, 105, "PERSON"],
+          [121, 126, "DATE"],
+          [130, 137, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Separately , U.S. officials say coalition forces killed six insurgents and captured 54 suspects early Sunday near the western border town of al-Qaim .\r",
+      {
+        "entities": [
+          [13, 17, "GPE"],
+          [102, 108, "DATE"],
+          [118, 125, "LOC"],
+          [141, 148, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The U.S. government is delivering more bad news on the country 's struggling economy , saying first time claims for unemployment benefits are at a 26-year high .\r",
+      { "entities": [[147, 154, "DATE"]] }
+    ],
+    [
+      "The Labor Department report , issued Thursday , said the number of laid-off workers applying for benefits for the first time soared to 6,26,000 last week .\r",
+      {
+        "entities": [
+          [37, 45, "DATE"],
+          [144, 153, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Officials said the total number of workers receiving unemployment benefits is now close to 4.8 million , another record .\r",
+      { "entities": [] }
+    ],
+    [
+      "A comprehensive government report on unemployment is due out Friday .\r",
+      { "entities": [[61, 67, "DATE"]] }
+    ],
+    [
+      "Economists surveyed by news organizations predict the nationwide jobless rate will rise three-tenths of a percent to hit 7.5 percent .\r",
+      { "entities": [] }
+    ],
+    [
+      "Despite the rising claims for unemployment insurance , U.S. companies are squeezing more productivity out of their shrinking workforces .\r",
+      { "entities": [[55, 59, "GPE"]] }
+    ],
+    [
+      "A second Labor Department report Thursday said productivity - a measure of how much an employee produces per hour - rose more than three percent for the last three months of 2008 .\r",
+      {
+        "entities": [
+          [0, 25, "ORG"],
+          [33, 41, "DATE"],
+          [105, 113, "DATE"],
+          [153, 178, "DATE"]
+        ]
+      }
+    ],
+    [
+      "At least 17 people , including seven children , were killed and more than 70 others wounded in an explosion Monday at a home used for religious education in Pakistan 's Punjab province .\r",
+      {
+        "entities": [
+          [108, 114, "DATE"],
+          [157, 165, "GPE"],
+          [169, 175, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Officials in the Mian Channu area said they believe the blast , which also flattened more than 20 nearby houses , was caused by a cache of explosives stored in the house .\r",
+      { "entities": [[17, 28, "GPE"]] }
+    ],
+    [
+      "They said the rescuers were trying to recover people still trapped in the rubble .\r",
+      { "entities": [] }
+    ],
+    [
+      "The house belongs to a Muslim cleric who has been accused of recruiting fighters for a banned militant group .\r",
+      { "entities": [[23, 29, "NORP"]] }
+    ],
+    [
+      "It is unclear what triggered the blast , but local police searching through the debris say they found rocket launchers , grenades , and several suicide-bomber jackets .\r",
+      { "entities": [] }
+    ],
+    [
+      "Pakistani Prime Minister Yusuf Raza Gilani condemned the blast and ordered an inquiry into the incident .\r",
+      {
+        "entities": [
+          [0, 9, "NORP"],
+          [25, 42, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "A U.S. immigration judge has denied bail for Luis Posada Carriles , an asylum-seeking former CIA operative from Cuba .\r",
+      {
+        "entities": [
+          [2, 6, "GPE"],
+          [45, 65, "PERSON"],
+          [112, 116, "GPE"]
+        ]
+      }
+    ],
+    [
+      "U.S. authorities arrested the 77-year-old Posada Carriles in May after he illegally entered the country through Mexico .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [42, 57, "PERSON"],
+          [61, 64, "DATE"],
+          [112, 118, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Posada Carriles is wanted in Venezuela for his alleged role in a 1976 Cuban airliner bombing that killed 73 people .\r",
+      {
+        "entities": [
+          [0, 15, "PERSON"],
+          [29, 38, "GPE"],
+          [70, 75, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Some 20 years ago , a Venezuelan court acquitted him of a role in the bombing .\r",
+      { "entities": [[22, 32, "NORP"]] }
+    ],
+    [
+      "He later escaped from prison while awaiting a new trial .\r",
+      { "entities": [] }
+    ],
+    [
+      "In May , U.S. officials rejected a Venezuelan request for his arrest , citing a lack of evidence against the Cuban exile who holds Venezuelan citizenship .\r",
+      {
+        "entities": [
+          [35, 45, "NORP"],
+          [109, 114, "NORP"],
+          [131, 141, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Pakistani President Pervez Musharraf has sought the support of Pakistanis in the fight against religious extremism and terrorism .\r",
+      {
+        "entities": [
+          [0, 9, "NORP"],
+          [20, 36, "PERSON"],
+          [63, 73, "NORP"]
+        ]
+      }
+    ],
+    [
+      "He underlined the need of ridding the society of extremism and terrorism , saying they are hurting Pakistan 's image by their actions .\r",
+      { "entities": [[99, 107, "GPE"]] }
+    ],
+    [
+      "In a broadcast address to the nation Thursday , General Musharraf promised \" stern action \" against those involved in the printing , publication and distribution of hate material , including newspapers , magazines , pamphlets , and audio and video material .\r",
+      {
+        "entities": [
+          [37, 45, "DATE"],
+          [56, 65, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "He said no outlawed organization will be allowed to collect donations and action will be taken against those who preach hate in mosques .\r",
+      { "entities": [] }
+    ],
+    [
+      "Some Western leaders have said Pakistan should do more to curb militancy , and that extremists were operating in Islamic schools , or madrassas .\r",
+      {
+        "entities": [
+          [31, 39, "GPE"],
+          [113, 120, "NORP"]
+        ]
+      }
+    ],
+    [
+      "General Musharraf said all madrassas in Pakistan must be registered with the government by the end of this year .\r",
+      {
+        "entities": [
+          [0, 17, "PERSON"],
+          [40, 48, "GPE"]
+        ]
+      }
+    ],
+    [
+      "U.S. health officials have called for updated quarantine procedures , including better access to airline and ship passenger lists , to protect Americans from infectious diseases , including bird flu .\r",
+      {
+        "entities": [
+          [0, 4, "GPE"],
+          [143, 152, "NORP"]
+        ]
+      }
+    ],
+    [
+      "The changes , proposed by the U.S. Centers for Disease Control , would apply to planes and ships arriving from outside the United States as well as some domestic flights .\r",
+      {
+        "entities": [
+          [30, 34, "GPE"],
+          [123, 136, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The CDC also called for giving U.S. health officials more authority to administer medical treatment and vaccinations to quarantined people .\r",
+      { "entities": [] }
+    ],
+    [
+      "Health officials say the need for new regulations became apparent during the 2003 SARS , Severe Acute Respiratory Syndrome outbreak , when authorities found it difficult to get in touch with airline passengers who may have been exposed to the illness .\r",
+      { "entities": [] }
+    ],
+    [
+      "The proposals come amid growing concern about the spread of bird flu , which has killed more than 60 people in Asia since 2003 .\r",
+      { "entities": [[116, 126, "DATE"]] }
+    ],
+    [
+      "Pakistani police have arrested four alleged members of an Islamic militant group in connection with the murder of a prominent Shi'ite Muslim cleric earlier this year .\r",
+      {
+        "entities": [
+          [0, 9, "NORP"],
+          [58, 65, "NORP"],
+          [126, 140, "NORP"]
+        ]
+      }
+    ],
+    [
+      "A senior police official , Saud Aziz , says the four wanted in connection with the slaying of Agha Ziauddin in the town of Gilgit in January were picked up in the city of Rawalpindi .\r",
+      {
+        "entities": [
+          [27, 36, "PERSON"],
+          [94, 107, "PERSON"],
+          [123, 129, "LOC"],
+          [133, 140, "DATE"],
+          [171, 181, "GPE"]
+        ]
+      }
+    ],
+    [
+      "The murder sparked sectarian violence that left at least 14 people dead .\r",
+      { "entities": [] }
+    ],
+    [
+      "The official says the suspects belong to the Sunni Muslim Lashkar-e-Jhangvi and that they were plotting to attack Shi'ite events last week but changed their minds because of tight security .\r",
+      {
+        "entities": [
+          [51, 57, "NORP"],
+          [58, 75, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "The banned group is accused of killing hundreds of Pakistani Shi'ite Muslims in recent years and is believed to have links to the al-Qaida terrorist network .\r",
+      {
+        "entities": [
+          [51, 60, "NORP"],
+          [61, 76, "NORP"],
+          [130, 138, "ORG"]
+        ]
+      }
+    ],
+    [
+      "The name \" Latvia \" originates from the ancient Latgalians , one of four eastern Baltic tribes that formed the ethnic core of the Latvian people ( ca. 8th - 12th centuries A.D. ) .\r",
+      { "entities": [] }
+    ],
+    [
+      "The region subsequently came under the control of Germans , Poles , Swedes , and finally , Russians .\r",
+      {
+        "entities": [
+          [50, 57, "NORP"],
+          [60, 65, "NORP"],
+          [68, 74, "NORP"],
+          [91, 99, "NORP"]
+        ]
+      }
+    ],
+    [
+      "A Latvian republic emerged following World War I , but it was annexed by the USSR in 1940 - an action never recognized by the US and many other countries .\r",
+      {
+        "entities": [
+          [2, 18, "ORG"],
+          [77, 81, "NORP"]
+        ]
+      }
+    ],
+    [
+      "Latvia reestablished its independence in 1991 following the breakup of the Soviet Union .\r",
+      { "entities": [[75, 87, "NORP"]] }
+    ],
+    [
+      "Although the last Russian troops left in 1994 , the status of the Russian minority ( some 30 % of the population ) remains of concern to Moscow .\r",
+      {
+        "entities": [
+          [18, 25, "NORP"],
+          [66, 73, "NORP"],
+          [137, 143, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Latvia joined both NATO and the EU in the spring of 2004 .\r",
+      {
+        "entities": [
+          [0, 6, "PERSON"],
+          [19, 23, "ORG"],
+          [32, 34, "ORG"],
+          [42, 56, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Bolivia is one of the poorest and least developed countries in Latin America .\r",
+      {
+        "entities": [
+          [0, 7, "GPE"],
+          [63, 76, "GPE"]
+        ]
+      }
+    ],
+    [
+      "Following a disastrous economic crisis during the early 1980s , reforms spurred private investment , stimulated economic growth , and cut poverty rates in the 1990s .\r",
+      {
+        "entities": [
+          [50, 61, "DATE"],
+          [159, 164, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The period 2003 - 5 was characterized by political instability , racial tensions , and violent protests against plans - subsequently abandoned - to export Bolivia 's newly discovered natural gas reserves to large northern hemisphere markets .\r",
+      {
+        "entities": [
+          [155, 162, "GPE"],
+          [213, 232, "GPE"]
+        ]
+      }
+    ],
+    [
+      "In 2005 , the government passed a controversial hydrocarbons law that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee .\r",
+      { "entities": [[3, 7, "DATE"]] }
+    ],
+    [
+      "After higher prices for mining and hydrocarbons exports produced a fiscal surplus in 2008 , the global recession in 2009 slowed growth .\r",
+      {
+        "entities": [
+          [85, 89, "DATE"],
+          [116, 120, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Nevertheless , Bolivia recorded the highest growth rate in South America that year .\r",
+      {
+        "entities": [
+          [15, 22, "GPE"],
+          [59, 72, "GPE"],
+          [78, 82, "DATE"]
+        ]
+      }
+    ],
+    [
+      "During 2010 an increase in world commodity prices resulted in the biggest trade surplus in history .\r",
+      { "entities": [[7, 11, "DATE"]] }
+    ],
+    [
+      "However , a lack of foreign investment in the key sectors of mining and hydrocarbons and higher food prices pose challenges for the Bolivian economy .\r",
+      { "entities": [[132, 140, "NORP"]] }
+    ],
+    [
+      "Autonomy for the Swazis of southern Africa was guaranteed by the British in the late 19th century ; independence was granted in 1968 .\r",
+      {
+        "entities": [
+          [17, 23, "NORP"],
+          [27, 42, "GPE"],
+          [65, 72, "NORP"],
+          [85, 97, "DATE"],
+          [128, 132, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Student and labor unrest during the 1990s pressured King MSWATI III , the world 's last absolute monarch , to grudgingly allow political reform and greater democracy , although he has backslid on these promises in recent years .\r",
+      {
+        "entities": [
+          [36, 41, "DATE"],
+          [52, 67, "PERSON"],
+          [214, 226, "PERSON"]
+        ]
+      }
+    ],
+    [
+      "A constitution came into effect in 2006 , but the legal status of political parties remains unclear .\r",
+      { "entities": [[35, 39, "DATE"]] }
+    ],
+    [
+      "The African United Democratic Party tried unsuccessfully to register as an official political party in mid 2006 .\r",
+      {
+        "entities": [
+          [0, 35, "ORG"],
+          [103, 111, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Talks over the constitution broke down between the government and progressive groups in 2007 .\r",
+      { "entities": [[88, 92, "DATE"]] }
+    ],
+    [
+      "Swaziland recently surpassed Botswana as the country with the world 's highest known HIV / AIDS prevalence rate .\r",
+      {
+        "entities": [
+          [0, 9, "GPE"],
+          [29, 37, "GPE"]
+        ]
+      }
+    ],
+    [
+      "First colonized by the Spanish , the islands came under British control in the early 19th century .\r",
+      {
+        "entities": [
+          [23, 30, "NORP"],
+          [56, 63, "NORP"],
+          [79, 97, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The islands ' sugar industry was hurt by the emancipation of the slaves in 1834 .\r",
+      { "entities": [[75, 79, "DATE"]] }
+    ],
+    [
+      "Manpower was replaced with the importation of contract laborers from India between 1845 and 1917 , which boosted sugar production as well as the cocoa industry .\r",
+      {
+        "entities": [
+          [83, 87, "DATE"],
+          [92, 96, "DATE"]
+        ]
+      }
+    ],
+    [
+      "The discovery of oil on Trinidad in 1910 added another important export .\r",
+      {
+        "entities": [
+          [24, 32, "GPE"],
+          [36, 40, "DATE"]
+        ]
+      }
+    ],
+    [
+      "Independence was attained in 1962 .\r",
+      { "entities": [[29, 33, "DATE"]] }
+    ],
+    [
+      "The country is one of the most prosperous in the Caribbean thanks largely to petroleum and natural gas production and processing .\r",
+      { "entities": [[49, 58, "LOC"]] }
+    ],
+    ["", { "entities": [] }]
+  ]
+}
