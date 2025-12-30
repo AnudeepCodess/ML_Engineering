@@ -86,20 +86,6 @@ Rearrange currency symbols to the end: "USD7m" → "7 million USD"
 
 ---
 
-### Step 4: Reporting
-The report includes:
-- Vocabulary creation process and total token count (including `</s>`)  
-- Comparison of FFN models (frozen vs fine-tuned embeddings)  
-- Comparison of RNN models and model complexity  
-- Best-performing model and reasoning  
-- Answers to assignment questions:
-1. Importance of sentence separator token  
-2. Case-sensitive vocabulary duplicates  
-3. Word2Vec embedding similarity analysis  
-4. Class imbalance discussion and handling  
-
----
-
 ## Tools & Libraries
 - Python  
 - Keras / TensorFlow  
