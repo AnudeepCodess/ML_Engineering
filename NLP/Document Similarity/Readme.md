@@ -13,7 +13,7 @@ The workflow includes:
 ---
 
 ## Dataset
-- **Source**: Provided CSV file `assignment3_data.csv`
+- **Source**: Provided CSV file `data.csv`
 - **Contents**: 10 documents in the first column named `document`
 - **Preprocessing**: Removed punctuation, symbols, and extra spaces; applied lemmatization as needed
 
